@@ -55,9 +55,9 @@ const WAREHOUSE_ICONS = [
 
 // --- DATA AWAL (INITIAL STATE) ---
 const INITIAL_WAREHOUSES = [
-  { id: 'W1', name: 'Gudang Utama (Pusat)', location: 'Jakarta', color: 'bg-yellow-500', icon: Building2 },
-  { id: 'W2', name: 'Gudang Cabang (Workshop)', location: 'Cikarang', color: 'bg-yellow-600', icon: Wrench },
-  { id: 'W3', name: 'Gudang Site Project', location: 'Kalimantan', color: 'bg-orange-500', icon: Container },
+  { id: 'W1', name: 'Yard Cakung', location: 'Jakarta', color: 'bg-yellow-500', icon: Building2 },
+  { id: 'W2', name: 'Yard Sukapura', location: 'Cikarang', color: 'bg-yellow-600', icon: Wrench },
+  { id: 'W3', name: 'Yard Jababeka', location: 'Kalimantan', color: 'bg-orange-500', icon: Container },
 ];
 
 const INITIAL_TOOLS = [
